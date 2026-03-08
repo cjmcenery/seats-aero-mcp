@@ -71,6 +71,14 @@ npm run build   # compile TypeScript
 npm start       # run the server
 ```
 
+## Disclaimer
+
+This project is an independent, unofficial tool and is **not affiliated with, endorsed by, or in any way associated with seats.aero**. All data is retrieved through the seats.aero Partner API using your own credentials.
+
+Use of this software is subject to the [seats.aero Terms of Service](https://seats.aero/terms). You are solely responsible for ensuring your usage complies with their terms, including any restrictions on API usage, rate limits, and permitted use cases.
+
+This software is provided "as is", without warranty of any kind. The author(s) are not liable for any damages, data loss, account suspension, or other consequences arising from the use of this software.
+
 ## License
 
 MIT
